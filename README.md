@@ -15,6 +15,10 @@ For example, 32 + 42 = 9 + 16 = 25 = 52.
 There exists exactly one Pythagorean triplet for which a + b + c = 1000.
 Find the product abc.
 
+Use Cases: 
+
+ - Expands my programming knowledge
+
 Problems: 
 
  - Minor Spelling Errors 
@@ -22,7 +26,3 @@ Problems:
 Possible Work Arounds:
 
  - Pythagorean instead of Ptyhagorean
-
-Use Cases: 
-
- - Expands my programming knowledge
