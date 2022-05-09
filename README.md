@@ -22,3 +22,7 @@ Problems:
 Possible Work Arounds:
 
  - Pythagorean instead of Ptyhagorean
+
+Use Cases: 
+
+ - Expands my programming knowledge
